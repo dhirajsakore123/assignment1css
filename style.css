@@ -1,0 +1,40 @@
+h1{
+    color: red;
+}
+h2{
+    font-style: italic;
+    color: tomato;
+    background-origin: padding-box;
+}
+.con{
+    color: rgb(187, 10, 10);
+}
+ol{
+    line-height: 40px;
+}
+.td{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.bg{
+    background: yellow;
+  font-weight: bold;
+}
+.four{font-style: italic;
+    text-decoration: underline;
+
+}
+.cont{
+    color: rgb(122, 13, 13);
+    letter-spacing: 5px;
+}
+.co{
+    color: rgb(196, 62, 13);
+}
+a{
+    font-style: italic;
+    color: tomato;
+   background-color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
